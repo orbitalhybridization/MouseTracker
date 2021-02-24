@@ -1,2 +1,7 @@
 # MouseTracker
-A computer vision package (written in Bonsai and Python) for tracking mice during behavioral experiments.
+A tracking program for live recording and heatmapping of freely-moving mouse nose location and sniff signal
+Goal: to make a simple, usable GUI for location and sniff data acquisition and processing.
+
+Written: Ian Jackson (Contact: orbitalhybridization@gmail.com)
+
+Last Updated: 7/26/18
