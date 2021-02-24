@@ -1,6 +1,6 @@
 # MouseTracker
 A tracking program for live recording and heatmapping of freely-moving mouse nose location and sniff signal
-Goal: to make a simple, usable GUI for location and sniff data acquisition and processing.
+_Goal: to make a simple, usable GUI for location and sniff data acquisition and processing.
 
 Written: Ian Jackson (Contact: orbitalhybridization@gmail.com)
 
